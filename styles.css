@@ -1,0 +1,52 @@
+/* add your CSS here */
+.main {
+    width: 450px;
+    box-shadow: 15px 15px 15px  lightblue;
+    margin: 30px auto 100px;
+    background-color: azure;
+    
+    border: 2px solid #aaa;
+    border-color: blue;
+}
+
+body {
+    font-family: cursive;
+}
+
+h3 {
+    box-sizing: border-box;
+    border: 3px solid blue;
+    padding: 15px;
+    margin: 0.4cm 3cm 0.5cm 3.5cm;
+    font-size: 31.5px;
+    color: blue;
+}
+
+img {
+    width: 300px;
+    height: 230px;
+    margin-left: 2.1cm ;
+    border-radius: 10px;
+    border: 4px dotted blue;
+}
+
+.fact {
+    font-style: italic;
+}
+
+.description {
+    margin: 0.4cm 0.5cm 0.5cm ;
+    box-sizing: border-box;
+    border: 2px solid blue;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 8px;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
